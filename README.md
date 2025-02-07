@@ -34,9 +34,8 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 ## 💡Features
-#### 1. QR Code Generator
-#### 2. QR Code Scanner
-#### 3. BarCode Scanner
+#### 1. Word and PDF Encrypt
+#### 2. Word and PDF Decrypt
 
 ## 🛠️Installation and Setup
 
@@ -44,13 +43,13 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 Clone the project using the following command:
 
 ```sh
-git clone https://github.com/alii16/laravel-qrcode-generator.git
+git clone https://github.com/alii16/laravel-aes-algorithm.git
 ```
 
 ### 2. Navigate to Project Directory
 
 ```sh
-cd laravel-qrcode-generator
+cd laravel-aes-algorithm
 ```
 
 ### 3. Install Dependencies
@@ -78,7 +77,7 @@ Edit the `.env` file and update the database settings:
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=qrcode
+DB_DATABASE=laravel
 DB_USERNAME=root
 DB_PASSWORD=
 ```
@@ -93,26 +92,17 @@ The application will be available at `http://127.0.0.1:8000/`.
 
 ---
 
-## 🚀QR Code Generator
+## 🚀View
 
 <p align="center">
-    <img src="https://i.imgur.com/mxnqyfW.png" width="800" alt="Screenshot 1">
+    <img src="https://imgur.com/rRZqTsF" width="800" alt="Screenshot 1">
 </p>
 
 <p align="center">
-    <img src="https://i.imgur.com/VjZi5Tu.png" width="400" alt="Screenshot 1">
-    <img src="https://i.imgur.com/q9hRwLX.png" width="400" alt="Screenshot 2">
+    <img src="https://imgur.com/iujGiQY" width="800" alt="Screenshot 1">
 </p>
 
-## ✨QR Code Scanner
-
+## ✨Result
 <p align="center">
-    <img src="https://i.imgur.com/JhekVEt.png" width="400" alt="Screenshot 1">
-    <img src="https://i.imgur.com/Emse4Kx.png" width="400" alt="Screenshot 2">
+    <img src="https://imgur.com/TaWb51v" width="800" alt="Screenshot 1">
 </p>
-
-<p align="center">
-    <img src="https://i.imgur.com/mfM1RHC.png" width="400" alt="Screenshot 1">
-    <img src="https://i.imgur.com/Ylt6xNb.png" width="400" alt="Screenshot 2">
-</p>
-
